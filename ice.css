@@ -1,4 +1,7 @@
 h1{
     color: rgb(241, 30, 108);
     font-size: 60px;
+    background-color: aqua;
+    margin:0px;
+    border: solid 10px
 }
